@@ -1,0 +1,16 @@
+video:
+
+- position
+- brightness
+- hue
+- colour (rgb)
+
+audio:
+
+- pitch
+- volume
+- instrument
+
+possible correlations:
+
+- x-pos -> volume and y-pos -> pitch (like a theremin)
